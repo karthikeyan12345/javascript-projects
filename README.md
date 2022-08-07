@@ -7,3 +7,5 @@ This repository will contain vanilla javascript projects
 Hotel Menu : https://hotel-menu-javascript.netlify.app
 
 Grocery List : https://grocery-list-javascript.netlify.app
+
+color Flipper : https://color-flipper-js-vanilla.netlify.app/
